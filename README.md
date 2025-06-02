@@ -1,4 +1,4 @@
-# Real-Time Chat Application
+# ZENDER | Real-Time Chat Application
 
 A fully responsive real-time chat application built with **ReactJS** and **Laravel**, offering seamless messaging, file sharing, group management, and live WebSocket-powered updates.
 
@@ -48,8 +48,8 @@ A fully responsive real-time chat application built with **ReactJS** and **Larav
 ### Backend (Laravel)
 
 ```bash
-git clone https://github.com/yourusername/chat-app.git
-cd chat-app/backend
+git clone https://github.com/mrJudyAbraham/Zender.git
+cd Zender
 composer install
 cp .env.example .env
 php artisan key:generate
